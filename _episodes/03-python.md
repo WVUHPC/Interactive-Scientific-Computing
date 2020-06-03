@@ -1,5 +1,5 @@
 ---
-title: "Open On Demand: Easy web access to HPC resources"
+title: "Python: A powerful language with a rich collection of tools for scientific computing"
 teaching: 30
 exercises: 30
 questions:

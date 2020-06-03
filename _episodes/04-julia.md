@@ -1,5 +1,5 @@
 ---
-title: "Open On Demand: Easy web access to HPC resources"
+title: "Julia: The new language for Technical Computing"
 teaching: 30
 exercises: 30
 questions:

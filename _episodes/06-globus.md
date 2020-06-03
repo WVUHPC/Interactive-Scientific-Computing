@@ -1,5 +1,5 @@
 ---
-title: "Open On Demand: Easy web access to HPC resources"
+title: "Globus: Research Data Management Platform"
 teaching: 30
 exercises: 30
 questions:
