@@ -3,7 +3,7 @@ title: "Python: A powerful language with a rich collection of tools for scientif
 teaching: 30
 exercises: 30
 questions:
-- "Key question (FIXME)"
+- "Opening a Jupyter session and start learning Python"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

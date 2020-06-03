@@ -3,7 +3,8 @@ title: "Open On Demand: Easy web access to HPC resources"
 teaching: 30
 exercises: 30
 questions:
-- "Key question (FIXME)"
+- "What is Open On Demand?"
+- "Creating the first interactive session"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

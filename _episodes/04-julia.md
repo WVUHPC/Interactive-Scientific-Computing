@@ -3,7 +3,7 @@ title: "Julia: The new language for Technical Computing"
 teaching: 30
 exercises: 30
 questions:
-- "Key question (FIXME)"
+- "Opening a Jupyter session and start learning Julia"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

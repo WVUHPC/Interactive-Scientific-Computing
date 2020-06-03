@@ -4,6 +4,7 @@ layout: reference
 
 ## Glossary
 
-FIXME
+   - HPC: High Performance Computing
+   - ISC: Interactive Scientific Computing
 
 {% include links.md %}

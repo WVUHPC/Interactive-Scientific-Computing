@@ -1,9 +1,10 @@
 ---
-title: "Open On Demand: Easy web access to HPC resources"
+title: "Introduction"
 teaching: 30
 exercises: 30
 questions:
-- "Key question (FIXME)"
+- "What is Interactive Scientific Computing (ISC)?"
+- "Why using High Performance Computing (HPC) clusters for ISC?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
